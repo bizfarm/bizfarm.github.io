@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: 서류 심사 자동화
-    text: It's Nice To Meet You
+    text: Check Mate
     button: Tell Me More
     buttonlink: "#services"
 
