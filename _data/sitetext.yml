@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: 서류 심사 자동화 플랫폼
+    text: Check Mate
     button: Tell Me More
     buttonlink: "#services"
 
