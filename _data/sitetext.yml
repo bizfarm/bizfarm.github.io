@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Jo"
         role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/jo.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Jason"
         role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/jason.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Choi"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/choi.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
