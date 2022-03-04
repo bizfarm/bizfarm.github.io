@@ -27,28 +27,16 @@ alt: Easy Data Sync
   <img src="assets/img/portfolio/EDS_2.png" width="80%">
 </div>
 
->   1) 모니터링
->> - OBJECT(상품/할인) 기준으로 정의된 Table의 데이타를 조회
->> - 각 테이블별로 조회된 Souce DB / Target DB 결과값이 다른 경우 표시
->> - 'NOT EXISTS' Row의 경우 해당 DB에는 존재하지 않는 값
->> - 2개 이상의 Table을 참조하여 결과를 추출하는 경우 다른 Table의 결과값이 영향 줄 수 있음
->> - Data 검증 시 비교하는 Column에서 제외하려면 [Table] 우클릭 > 'Column Setting'
-
->   2) 데이타 동기화
->> - 오처리를 방지하기 위해 데이타 동기화를 단방향으로만 가능하도록 설정가능 (Source -> Target)
->> - 데이타 동기화 시 Object가 Table에 직접적으로 포함되어 있는 경우 먼저 처리
->> - 2개 이상의 Table을 참조하는 경우는 Object를 직접적으로 포함하고 있는 Table 선처리 후 처리
-
->    3) 순환 SQL
->> - 정해진 Cycle에 따라 반복적으로 SQL을 수행
->> - 결과값을 SMS/MMS으로 전송
+<div align="center">
+  <img src="assets/img/portfolio/EDS_3.png" width="80%">
+</div>
 
 ## 시연 영상
 
 <div class="video-container">
 <iframe width="730" height="511" src="https://www.youtube.com/embed/KCeKnnNfFuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+&nbsp;
 {:.list-inline}
 
 - Date: Jul 2019 - Oct 2019

@@ -46,23 +46,23 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2008-2017"
+        desc: "우린느 통신 Biz 영역에서 10년 이상의 대형 프로젝트 컨설팅 및 수행을 해왔고, 2017년 Digital Transformation 관점에서 변화에 맞춰 새로운 시도를 함께 해보자는 마음으로 모였습니다."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "SKTelecom OCR Benchmark"
+        year: "Sep 2018"
+        desc: "외부 솔루션 4개사와 Benchmark 결과 3배 이상 차이 나는 높은 인식률과 처리 속도로 경쟁력을 인정 받았습니다."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "SKT 결합 심사 자동화 Pjt 사업수주"
+        year: "Oct 2018-May 2019"
+        desc: "결합 심사 자동화를 적용하여 사람이 하고 있는 심사 업무의 70%를 자동화 하였고 연간 4.1억의 비용을 감소 할 수 있었습니다. 해당 프로젝트느 SKTelecom 내부에서도 AI 성공사례로 소개되고 있습니다."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "테스트 자동화 솔루션 개발"
+        year: "Jan 2020-Dec 2021"
+        desc: "어려운 환경에도 테스트를 자동화 할 수 있는 솔루션 ReST(Reinforced Software Test) Studio를 개발하였고 금융 사업에도 확대 적용되었습니다."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
