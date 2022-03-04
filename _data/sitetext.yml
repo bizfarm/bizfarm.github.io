@@ -30,7 +30,7 @@ en: &DEFAULT_EN
       - title: "서류심사"
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "수행된 결과에 따라 후속 프로세스가 가능하도록 기술 결합이 가능하고 다양한 형식의 Report 기능을 제공합니다."
-        icon: fab fa-check
+        icon: fas fa-check
 
   portfolio:
     title: "Portfolio"
