@@ -17,7 +17,7 @@ alt: ReST Studio
 ReST(Reinforced Software Test) Studio는 이렇게 어려운 환경에도 테스트를 자동화 할 수 있는 솔루션을 제공합니다.
 
 <div align="center">
-  <img src="assets/img/portfolio/rest_1.png" width="100%">
+  <img src="assets/img/portfolio/rest_1.png" width="80%">
 </div>
 
 ## 시연 영상

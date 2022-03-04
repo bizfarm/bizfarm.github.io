@@ -28,7 +28,7 @@ alt: Easy Data Sync
 </div>
 
 <div align="center">
-  <img src="assets/img/portfolio/EDS_3.png" width="100%">
+  <img src="assets/img/portfolio/EDS_3.png" width="80%">
 </div>
 
 ## 시연 영상
