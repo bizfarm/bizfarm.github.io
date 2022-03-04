@@ -100,43 +100,43 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Jo"
-        role: "Lead Designer"
+        role: "Lead Quality Assurance Analyst"
         image: assets/img/team/jo.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://silverte.tistory.com/
+            icon: fa fa-blog
+          - url: https://github.com/silverte
+            icon: fab fa-github
           - url: https://www.linkedin.com/in/%EA%B2%BD%EB%AF%BC-%EC%A1%B0-45980511a/
             icon: fab fa-linkedin-in
       - name: "Jason"
         role: "Lead Marketer"
         image: assets/img/team/jason.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://hellojason.tistory.com/
+            icon: fa fa-blog
+          - url: https://github.com/jasonbaek97
+            icon: fab fa-github
           - url: https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-%EB%B0%B1-816994149/
             icon: fab fa-linkedin-in
       - name: "Choi"
-        role: "Lead Developer"
+        role: "Lead Product Manager"
         image: assets/img/team/choi.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://brunch.co.kr/@crossorbit#articles
+            icon: fa fa-blog
+          - url: https://github.com/crossorbit/
+            icon: fab fa-github
           - url: https://www.linkedin.com/in/kihyoung-choi-a493b7179/
             icon: fab fa-linkedin-in
       - name: "Kim"
         role: "Lead Developer"
         image: assets/img/team/kim.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://yunwoong.tistory.com/
+            icon: fa fa-blog
+          - url: https://github.com/yunwoong7
+            icon: fab fa-github
           - url: https://www.linkedin.com/in/%EC%9C%A4%EC%9B%85-%EA%B9%80-17832919a/
             icon: fab fa-linkedin-in
 
