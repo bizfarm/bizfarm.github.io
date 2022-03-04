@@ -1,13 +1,13 @@
 ---
-title: Easy Data Sync
-subtitle: Database 동기화
-image: assets/img/portfolio/eds_thumbnail.jpg
-alt: Easy Data Sync
-
 caption:
   title: Easy Data Sync
-  subtitle: Database Migration & Synchronization
+  subtitle: Database 동기화
   thumbnail: assets/img/portfolio/eds_thumbnail.jpg
+
+title: Easy Data Sync
+subtitle: Database Migration & Synchronization
+image: assets/img/portfolio/eds_thumbnail.jpg
+alt: Easy Data Sync
 ---
 
 ## Description
@@ -46,7 +46,7 @@ caption:
 ## 시연 영상
 
 <div class="video-container">
-<iframe width="1075" height="753" src="https://www.youtube.com/embed/7gj2POhsHMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="730" height="511" src="https://www.youtube.com/embed/KCeKnnNfFuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 {:.list-inline}

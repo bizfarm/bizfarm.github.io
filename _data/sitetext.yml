@@ -17,19 +17,19 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Service Or Product"
-    text: "서류 심사 **눈 안프게** 하지 말고, **편기**하고 **빠르게*8 처리 하세요"
+    title: "Service"
+    text: "서류 심사 눈 안프게 하지 말고, 편리하고 빠르게 처리 하세요"
     section: services
     list:
       - title: "Rule based"
-        desc: "심사 서류 및 유형 등록"
+        desc: "모바일, 서버, 웹등 다양한 플랫폼을 지원하며 정형화되지 않은 서류도 등록하고 Rule을 정의 할 수 있습니다."
         icon: fas fa-diagram-next #find more at https://fontawesome.com/icons
       - title: "AI OCR"
-        desc: "이미지 분류 및 문자 추출"
+        desc: "이미지의 서식을 분류하고 Rule에 정의된 문자를 탐지하여 추출 후 빠르고 정확하게 인식합니다."
         icon: fas fa-laptop
       - title: "서류심사"
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "결과 연동 / Report"
+        desc: "수행된 결과에 따라 후속 프로세스가 가능하도록 기술 결합이 가능하고 다양한 형식의 Report 기능을 제공합니다."
         icon: fab fa-markdown
 
   portfolio:
@@ -95,8 +95,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "함께 걸아갈 길 Check Mate"
+    subtext: 현재 우리는 새로운 모든 것에 대해 배우는 것을 즐기며, 창의적이고 도전적인 사고로 다양한 문제를 해결하려고 노력하고 있습니다.
     section: team
     people:
       - name: "Jo"

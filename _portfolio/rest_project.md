@@ -1,13 +1,13 @@
 ---
-title: ReST Studio
-subtitle: 테스트 자동화
-image: assets/img/portfolio/rest_thumbnail.jpg
-alt: ReST Studio
-
 caption:
   title: ReST Studio
-  subtitle: The RPA Solution that accelerates your digital transformation
+  subtitle: 테스트 자동화
   thumbnail: assets/img/portfolio/rest_thumbnail.jpg
+
+title: ReST Studio
+subtitle: The RPA Solution that accelerates your digital transformation
+image: assets/img/portfolio/rest_thumbnail.jpg
+alt: ReST Studio
 ---
 
 ## Description
@@ -19,7 +19,7 @@ ReST(Reinforced Software Test) Studio는 이렇게 어려운 환경에도 테스
 - Transaction을 이용한 테스트 자동화 스크립트 생성 시에는 Transaction에 대한 기본적인 이해가 필요하나 보다 쉽게 생성 및 관리 할 수 있도록 다양한 자동화 기능을 제공합니다.
 - 한번 축척된 테스트 케이스는 재사용성이 높습니다.
 - 다량의 테스트 수행이나 Regression 테스트에 활용하기 좋습니다.
-- 
+
 ## 시연 영상
 
 <div class="video-container">
