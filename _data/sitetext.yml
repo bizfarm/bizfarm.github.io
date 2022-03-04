@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Service Or Product"
-    text: "Ex) 3단계로 이용 할 수 있습니다."
+    text: "서류 심사 **눈 안프게** 하지 말고, **편기**하고 **빠르게*8 처리 하세요"
     section: services
     list:
       - title: "Rule based"
@@ -34,7 +34,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "검증된 기술 경쟁력과 B2B 사업 전문성"
     section: portfolio
     closebutton: "Close Project"
 
@@ -72,7 +72,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "SKTelecom에서 실시한 OCR 자체 기술 평가 **1위**. 많은 경험과 검증된 성능으로 고객들을 확보하고 있으며 Biz. Rule Engine & AI OCR 기술을 활용하여 Total 심사 서비스를 제공합니다."
     section: about
 
   clients:
