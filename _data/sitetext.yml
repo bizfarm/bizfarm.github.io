@@ -17,19 +17,19 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Product"
-    text: "3단계로 이용 할 수 있습니다."
+    title: "Service Or Product"
+    text: "Ex) 3단계로 이용 할 수 있습니다."
     section: services
     list:
       - title: "Rule based"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "심사 서류 및 유형 등록"
+        icon: fas fa-diagram-next #find more at https://fontawesome.com/icons
       - title: "AI OCR"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "이미지 분류 및 문자 추출"
         icon: fas fa-laptop
       - title: "서류심사"
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "결과 연동 / Report"
         icon: fab fa-markdown
 
   portfolio:
