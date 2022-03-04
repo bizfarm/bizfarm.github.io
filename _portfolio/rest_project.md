@@ -23,7 +23,7 @@ ReST(Reinforced Software Test) Studio는 이렇게 어려운 환경에도 테스
 ## 시연 영상
 
 <div class="video-container">
-<iframe width="1075" height="753" src="https://www.youtube.com/embed/I6YLTDS6KlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="730" height="511" src="https://www.youtube.com/embed/I6YLTDS6KlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 {:.list-inline}

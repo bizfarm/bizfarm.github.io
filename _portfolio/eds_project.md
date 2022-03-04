@@ -28,7 +28,7 @@ alt: Easy Data Sync
 </div>
 
 <div align="center">
-  <img src="assets/img/portfolio/EDS_3.png" width="80%">
+  <img src="assets/img/portfolio/EDS_3.png" width="100%">
 </div>
 
 ## 시연 영상
@@ -36,9 +36,8 @@ alt: Easy Data Sync
 <div class="video-container">
 <iframe width="730" height="511" src="https://www.youtube.com/embed/KCeKnnNfFuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-&nbsp;
-{:.list-inline}
 
+{:.list-inline}
 - Date: Jul 2019 - Oct 2019
 - Client: SKTelecom
 - Category: Database, RPA
