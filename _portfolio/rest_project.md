@@ -16,9 +16,9 @@ alt: ReST Studio
 
 ReST(Reinforced Software Test) Studio는 이렇게 어려운 환경에도 테스트를 자동화 할 수 있는 솔루션을 제공합니다.
 
-- Transaction을 이용한 테스트 자동화 스크립트 생성 시에는 Transaction에 대한 기본적인 이해가 필요하나 보다 쉽게 생성 및 관리 할 수 있도록 다양한 자동화 기능을 제공합니다.
-- 한번 축척된 테스트 케이스는 재사용성이 높습니다.
-- 다량의 테스트 수행이나 Regression 테스트에 활용하기 좋습니다.
+<div align="center">
+  <img src="assets/img/portfolio/rest_1.png" width="100%">
+</div>
 
 ## 시연 영상
 
