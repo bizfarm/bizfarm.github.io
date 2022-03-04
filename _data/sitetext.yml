@@ -47,7 +47,7 @@ en: &DEFAULT_EN
     events:
       - title: "Our Humble Beginnings"
         year: "2008-2017"
-        desc: "우린느 통신 Biz 영역에서 10년 이상의 대형 프로젝트 컨설팅 및 수행을 해왔고, 2017년 Digital Transformation 관점에서 변화에 맞춰 새로운 시도를 함께 해보자는 마음으로 모였습니다."
+        desc: "우리는 통신 Biz 영역에서 10년 이상의 대형 프로젝트 컨설팅 및 수행을 해왔고, 2017년 Digital Transformation 관점에서 변화에 맞춰 새로운 시도를 함께 해보자는 마음으로 모였습니다."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "SKTelecom OCR Benchmark"
