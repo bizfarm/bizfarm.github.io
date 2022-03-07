@@ -1,7 +1,7 @@
 <h2 align="center">
   Bizfarm MVP #1 landing page
 </h2>
-<a href="https://bizfarm.github.io/" target="_blank" title="CheckMate" rel="nofollow"><img width="100%" src="/assets/img/screenshot.png">
+<a href="https://bizfarm.github.io/" target="_blank" title="CheckMate" rel="nofollow"><img width="100%" src="/assets/img/screenshot.png"></a>
 
 ## Description
 
