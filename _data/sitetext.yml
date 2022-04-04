@@ -23,16 +23,16 @@ en: &DEFAULT_EN
     list:
       - title: "[Rule Bassed](https://roasted-basin-0f9.notion.site/63055c69b60d4c0cac82ca45020f3240)"
         #desc: "모바일, 서버, 웹등 다양한 플랫폼을 지원하며 정형화되지 않은 서류도 등록하고 Rule을 정의 할 수 있습니다."
-        desc: "심사할 서류와 규칙을 등록하며 Web, 서버 등 다양한 플랫폼을 지원합니다."
+        desc: "심사할 서류와 규칙을 등록하고 심사 기준별 후속 이벤트를 설정하여 원하는 심사를 손쉽게 할 수 있습니다."
         icon: fas fa-project-diagram #find more at https://fontawesome.com/icons
       - title: "[Automation](https://roasted-basin-0f9.notion.site/63055c69b60d4c0cac82ca45020f3240)"
-        #desc: "AI OCR 활용한 이미지 서식 분류 및 문자 탐지하여 등록한 규칙 기반 자동 심사 및 후속 이벤트를 수행합니다."
-        desc: "AI OCR 활용한 이미지 서식 분류 및 문자 탐지하여 등록한 규칙 기반 자동 심사 및 후속 이벤트를 수행합니다."
+        #desc: "OCR 활용한 이미지 서식 분류 및 문자 탐지, 다양한 API 활용한 확인, 등록한 규칙 기반 자동 심사 및 후속 이벤트를 수행합니다."
+        desc: "OCR 활용한 이미지 서식 분류 및 문자 탐지, API 활용한 검증, 등록한 규칙 기반한 자동 심사를 수행합니다."
         icon: fas fa-check
 #      - title: "Data Insight"
       - title: "[Data Insight](https://roasted-basin-0f9.notion.site/63055c69b60d4c0cac82ca45020f3240)"
         #desc: "수행된 결과에 따라 후속 프로세스가 가능하도록 기술 결합이 가능하고 다양한 형식의 Report 기능을 제공합니다."
-        desc: "접수된 서류와 자동 심사 결과를 간편하게 확인하고 다양한 형식의 Report 기능을 제공합니다."
+        desc: "접수된 서류 목록과 자동 심사 결과를 간편하게 확인하고 다양한 형식의 Report 기능을 제공합니다."
         icon: fas fa-laptop
 
   portfolio:
@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "함께 걸아갈 길 Check Mate"
-    body: "SKTelecom에서 실시한 OCR 자체 기술 평가 **1위**. 많은 경험과 검증된 성능으로 고객들을 확보하고 있으며 Biz. Rule Engine & AI OCR 기술을 활용하여 Total 심사 서비스를 제공합니다."
+    body: "유무선 통신 영역에서 10년 이상 IT 서비스를 제공해온 SK C&C 사내벤처 팀입니다. 차세대 프로젝트 컨설팅/수행, 자동화 솔루션 개발/런칭, SKTelecom에서 실시한 OCR 자체 기술 평가 1위 등 다양한 경험과 검증된 기술력으로 많은 고객을 확보하고 있습니다. 우리는 새롭게 배우는 모든 것을 즐기며, 창의적이고 도전적인 사고로 다양한 문제를 해결하고 있습니다."
     section: about
 
   clients:
@@ -155,8 +155,8 @@ en: &DEFAULT_EN
     email: "Email*"
     email-validation: "Please enter your email address."
     phone: "연락처"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
+    #phone-validation: "Please enter your phone number."
+    message: "문의 내용 남기기*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
