@@ -11,30 +11,33 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 저희는 Total 심사 서비스를 제공합니다.
+    title: 심사는 Check Mate에 맡겨두고, 본연의 비즈니스에 집중하세요.
     text: Check Mate
     button: More
     buttonlink: "#services"
 
   services:
     title: "Service"
-    text: "서류 심사 눈 안프게 하지 말고, 편리하고 빠르게 처리 하세요"
+    text: "눈 안프게 하지 말고, 편리하고 빠르게 심사 하세요"
     section: services
     list:
-      - title: "Rule based"
-        desc: "모바일, 서버, 웹등 다양한 플랫폼을 지원하며 정형화되지 않은 서류도 등록하고 Rule을 정의 할 수 있습니다."
+      - title: "[Rule Bassed](https://www.notion.so/63055c69b60d4c0cac82ca45020f3240)"
+        #desc: "모바일, 서버, 웹등 다양한 플랫폼을 지원하며 정형화되지 않은 서류도 등록하고 Rule을 정의 할 수 있습니다."
+        desc: "심사할 서류와 규칙을 등록하며 Web, 서버 등 다양한 플랫폼을 지원합니다."
         icon: fas fa-project-diagram #find more at https://fontawesome.com/icons
-      - title: "AI OCR"
-        desc: "이미지의 서식을 분류하고 Rule에 정의된 문자를 탐지하여 추출 후 빠르고 정확하게 인식합니다."
-        icon: fas fa-laptop
-      - title: "서류심사"
-#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "수행된 결과에 따라 후속 프로세스가 가능하도록 기술 결합이 가능하고 다양한 형식의 Report 기능을 제공합니다."
+      - title: "[Automation](https://www.notion.so/63055c69b60d4c0cac82ca45020f3240)"
+        #desc: "AI OCR 활용한 이미지 서식 분류 및 문자 탐지하여 등록한 규칙 기반 자동 심사 및 후속 이벤트를 수행합니다."
+        desc: "AI OCR 활용한 이미지 서식 분류 및 문자 탐지하여 등록한 규칙 기반 자동 심사 및 후속 이벤트를 수행합니다."
         icon: fas fa-check
+#      - title: "Data Insight"
+      - title: "[Data Insight](https://www.notion.so/63055c69b60d4c0cac82ca45020f3240)"
+        #desc: "수행된 결과에 따라 후속 프로세스가 가능하도록 기술 결합이 가능하고 다양한 형식의 Report 기능을 제공합니다."
+        desc: "접수된 서류와 자동 심사 결과를 간편하게 확인하고 다양한 형식의 Report 기능을 제공합니다."
+        icon: fas fa-laptop
 
   portfolio:
     title: "Portfolio"
-    text: "검증된 기술 경쟁력과 B2B 사업 전문성"
+    text: "B2B 사업 전문성과 검증된 기술 경쟁력"
     section: portfolio
     closebutton: "Close Project"
 
