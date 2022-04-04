@@ -42,40 +42,40 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
 
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2008-2017"
-        desc: "우리는 통신 Biz 영역에서 10년 이상의 대형 프로젝트 컨설팅 및 수행을 해왔고, 2017년 Digital Transformation 관점에서 변화에 맞춰 새로운 시도를 함께 해보자는 마음으로 모였습니다."
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "SKTelecom OCR Benchmark"
-        year: "Sep 2018"
-        desc: "외부 솔루션 4개사와 Benchmark 결과 3배 이상 차이 나는 높은 인식률과 처리 속도로 경쟁력을 인정 받았습니다."
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "SKT 결합 심사 자동화 Pjt 사업"
-        year: "Oct 2018-May 2019"
-        desc: "결합 심사 자동화를 적용하여 사람이 하고 있는 심사 업무의 70%를 자동화 하였고 연간 4.1억의 비용을 감소 할 수 있었습니다. 해당 프로젝트느 SKTelecom 내부에서도 AI 성공사례로 소개되고 있습니다."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "테스트 자동화 솔루션 개발"
-        year: "Jan 2020-Dec 2021"
-        desc: "어려운 환경에도 테스트를 자동화 할 수 있는 솔루션 ReST(Reinforced Software Test) Studio를 개발하였고 금융 사업에도 확대 적용되었습니다."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+#  timeline:
+#    title: "Timeline"
+#    text: "Lorem ipsum timeline"
+#    section: timeline
+#    # left is the default
+#    #start_align: "left"
+#    events:
+#      - title: "Our Humble Beginnings"
+#        year: "2008-2017"
+#        desc: "우리는 통신 Biz 영역에서 10년 이상의 대형 프로젝트 컨설팅 및 수행을 해왔고, 2017년 Digital Transformation 관점에서 변화에 맞춰 새로운 시도를 함께 해보자는 마음으로 모였습니다."
+#        image: assets/img/timeline/1.jpg
+#        alt:
+#      - title: "SKTelecom OCR Benchmark"
+#        year: "Sep 2018"
+#        desc: "외부 솔루션 4개사와 Benchmark 결과 3배 이상 차이 나는 높은 인식률과 처리 속도로 경쟁력을 인정 받았습니다."
+#        image: assets/img/timeline/2.jpg
+#        alt:
+#      - title: "SKT 결합 심사 자동화 Pjt 사업"
+#        year: "Oct 2018-May 2019"
+#        desc: "결합 심사 자동화를 적용하여 사람이 하고 있는 심사 업무의 70%를 자동화 하였고 연간 4.1억의 비용을 감소 할 수 있었습니다. 해당 프로젝트느 SKTelecom 내부에서도 AI 성공사례로 소개되고 있습니다."
+#        image: assets/img/timeline/3.jpg
+#        alt: image alt text
+#      - title: "테스트 자동화 솔루션 개발"
+#        year: "Jan 2020-Dec 2021"
+#        desc: "어려운 환경에도 테스트를 자동화 할 수 있는 솔루션 ReST(Reinforced Software Test) Studio를 개발하였고 금융 사업에도 확대 적용되었습니다."
+#        image: assets/img/timeline/4.jpg
+#        alt:
+#        # you can enforce the alignment
+#        align: right
+#    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
-    text: "our story"
+    text: "함께 걸아갈 길 Check Mate"
     body: "SKTelecom에서 실시한 OCR 자체 기술 평가 **1위**. 많은 경험과 검증된 성능으로 고객들을 확보하고 있으며 Biz. Rule Engine & AI OCR 기술을 활용하여 Total 심사 서비스를 제공합니다."
     section: about
 
@@ -96,82 +96,84 @@ en: &DEFAULT_EN
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "함께 걸아갈 길 Check Mate"
-    subtext: 현재 우리는 새로운 모든 것에 대해 배우는 것을 즐기며, 창의적이고 도전적인 사고로 다양한 문제를 해결하려고 노력하고 있습니다.
-    section: team
-    people:
-      - name: "Jo"
-        role: "Lead Quality Assurance Analyst"
-        image: assets/img/team/jo.jpg
-        social:
-          - url: https://silverte.tistory.com/
-            icon: fa fa-blog
-          - url: https://github.com/silverte
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/%EA%B2%BD%EB%AF%BC-%EC%A1%B0-45980511a/
-            icon: fab fa-linkedin-in
-      - name: "Jason"
-        role: "Lead Marketer"
-        image: assets/img/team/jason.jpg
-        social:
-          - url: https://hellojason.tistory.com/
-            icon: fa fa-blog
-          - url: https://github.com/jasonbaek97
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-%EB%B0%B1-816994149/
-            icon: fab fa-linkedin-in
-      - name: "Choi"
-        role: "Lead Product Manager"
-        image: assets/img/team/choi.jpg
-        social:
-          - url: https://brunch.co.kr/@crossorbit#articles
-            icon: fa fa-blog
-          - url: https://github.com/crossorbit/
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/kihyoung-choi-a493b7179/
-            icon: fab fa-linkedin-in
-      - name: "Kim"
-        role: "Lead Developer"
-        image: assets/img/team/kim.jpg
-        social:
-          - url: https://yunwoong.tistory.com/
-            icon: fa fa-blog
-          - url: https://github.com/yunwoong7
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/%EC%9C%A4%EC%9B%85-%EA%B9%80-17832919a/
-            icon: fab fa-linkedin-in
+#
+#  team:
+#    title: "OUR AMAZING TEAM"
+#    text: "함께 걸아갈 길 Check Mate"
+#    subtext: 현재 우리는 새로운 모든 것에 대해 배우는 것을 즐기며, 창의적이고 도전적인 사고로 다양한 문제를 해결하려고 노력하고 있습니다.
+#    section: team
+#    people:
+#      - name: "Jo"
+#        role: "Lead Quality Assurance Analyst"
+#        image: assets/img/team/jo.jpg
+#        social:
+#          - url: https://silverte.tistory.com/
+#            icon: fa fa-blog
+#          - url: https://github.com/silverte
+#            icon: fab fa-github
+#          - url: https://www.linkedin.com/in/%EA%B2%BD%EB%AF%BC-%EC%A1%B0-45980511a/
+#            icon: fab fa-linkedin-in
+#      - name: "Jason"
+#        role: "Lead Marketer"
+#        image: assets/img/team/jason.jpg
+#        social:
+#          - url: https://hellojason.tistory.com/
+#            icon: fa fa-blog
+#          - url: https://github.com/jasonbaek97
+#            icon: fab fa-github
+#          - url: https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-%EB%B0%B1-816994149/
+#            icon: fab fa-linkedin-in
+#      - name: "Choi"
+#        role: "Lead Product Manager"
+#        image: assets/img/team/choi.jpg
+#        social:
+#          - url: https://brunch.co.kr/@crossorbit#articles
+#            icon: fa fa-blog
+#          - url: https://github.com/crossorbit/
+#            icon: fab fa-github
+#          - url: https://www.linkedin.com/in/kihyoung-choi-a493b7179/
+#            icon: fab fa-linkedin-in
+#      - name: "Kim"
+#        role: "Lead Developer"
+#        image: assets/img/team/kim.jpg
+#        social:
+#          - url: https://yunwoong.tistory.com/
+#            icon: fa fa-blog
+#          - url: https://github.com/yunwoong7
+#            icon: fab fa-github
+#          - url: https://www.linkedin.com/in/%EC%9C%A4%EC%9B%85-%EA%B9%80-17832919a/
+#            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Call 123456789"
+    #text: "Call 123456789"
     section: contact
-    name: "Name*"
+    name: "이름*"
     name-validation: "Please enter your name."
+    company: "회사명*"
+    company-validation: "Please enter your company."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "연락처"
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
 
-  footer:
-    legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+#  footer:
+#    legal: "Privacy Policy"
+#    social:
+#      - url: https://twitter.com
+#        icon: "fab fa-twitter"
+#      - url: https://facebook.com
+#        icon: "fab fa-facebook-f"
+#      - url: https://linkedin.com
+#        icon: "fab fa-linkedin-in"
+#      - url: https://github.com/raviriley/agency-jekyll-theme
+#        icon: "fab fa-github"
+#      - url: https://instagram.com
+#        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
