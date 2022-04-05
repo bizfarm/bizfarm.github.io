@@ -37,14 +37,14 @@
               <div class="form-group">
                 <input name="phone" class="form-control" id="phone" type="tel"
                   placeholder="{{ site.data.sitetext[site.locale].contact.phone | default: "Phone Number*" }}"
-                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.phone-validation | default: "Please enter your phone number." }}">
+                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.phone-validation | default: "Please enter your phone number." }}"
                 <p class="help-block text-danger"></p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="form-group">
                 <textarea name="message" class="form-control" id="message"
-                  placeholder="{{ site.data.sitetext[site.locale].contact.message | default: "Message*" }}"
+                  placeholder="{{ site.data.sitetext[site.locale].contact.message | default: "message*" }}"
                   required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.message-validation | default: "Please enter a message." }}">
                 </textarea>
                 <p class="help-block text-danger"></p>
